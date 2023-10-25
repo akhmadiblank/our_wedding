@@ -29,7 +29,7 @@ body::-webkit-scrollbar {
 
 .cropper>img {
     display: inline;
-    margin: 0 auto;
+    margin:  auto;
     height: auto;
     width: 100%;
 }
